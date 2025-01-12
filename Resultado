@@ -1,0 +1,17 @@
+Digite o estado: A
+Digite o código da carta: 01
+Digite o nome da cidade: Rio
+Digite a população: 123123123
+Digite a área da cidade em km² (somente números, ex.: 75.6): 1231.123
+Digite o PIB: 123.123
+Digite o número de pontos turísticos: 123
+
+////////////////////////////////////////////////////////////////////////
+
+Estado: A
+Código da carta: A01
+Nome da cidade: Rio
+População: 123123123
+Área: 1231.12 m²
+PIB: 123.12
+Número de pontos turísticos: 123
