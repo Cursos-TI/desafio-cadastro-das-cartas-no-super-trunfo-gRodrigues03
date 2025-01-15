@@ -27,6 +27,7 @@ int main() {
     float pib;
     float pib_per_capita;
     int qtd_pontos_turisticos;
+    float super_poder;
 
 
     // Solicitar valores ao usuário e assosciá-los às variáveis adequadas
@@ -55,6 +56,9 @@ int main() {
     printf("Digite o número de pontos turísticos: ");
     scanf("%d", &qtd_pontos_turisticos);
 
+    super_poder = (populacao + area + densidade_populacional + pib + pib_per_capita + qtd_pontos_turisticos);
+    
+
     // Separação visual entre entrada e saída de dados no terminal
     printf("\n////////////////////////////////////////////////////////////////////////\n\n");
 
@@ -76,6 +80,8 @@ int main() {
     printf("PIB per capita: %.2f\n", pib_per_capita);
 
     printf("Número de pontos turísticos: %d\n", qtd_pontos_turisticos);
+
+    printf("Super poder: %f\n", super_poder);
 
 
     return 0;
