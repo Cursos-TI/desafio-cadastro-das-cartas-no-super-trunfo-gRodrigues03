@@ -1,0 +1,63 @@
+@gRodrigues03 ➜ /workspaces/desafio-cadastro-das-cartas-no-super-trunfo-gRodrigues03 (main) $ ./a.out
+// Insira os dados da carta 1
+Digite o estado da carta 1: C
+Digite o código da carta 1: 02
+Digite o nome da cidade: Falsópolis
+Digite a população: 20000
+Digite a área da cidade em km² (somente números, ex.: 75.6): 34
+Digite o PIB: 4000
+Digite o número de pontos turísticos: 5
+// Insira os dados da carta 2
+Digite o estado da carta 2: B05
+Digite o código da carta 2: Digite o nome da cidade: Falcity
+Digite a população: 12223
+Digite a área da cidade em km² (somente números, ex.: 75.6): 77
+Digite o PIB: 6600
+Digite o número de pontos turísticos: 12
+
+////////////////////////////////////////////////////////////////////////
+
+- - - DADOS INSERIDOS - - -
+////////////////////////////////////////////////////////////////////////
+
+Dados da carta 1:
+- Estado: C
+- Código da carta: C02
+- Nome da cidade: Falsópolis
+- População: 20000
+- Área: 34.00 km²
+- Densidade Populacional: 588.24/km²
+- PIB: 4000.00
+- PIB per capita: 0.20
+- Número de pontos turísticos: 5
+- Super poder: 24627.433594
+
+////////////////////////////////////////////////////////////////////////
+
+Dados da carta 2:
+- Estado: B
+- Código da carta: B05
+- Nome da cidade: Falcity
+- População: 12223
+- Área: 77.00 km²
+- Densidade Populacional: 158.74/km²
+- PIB: 6600.00
+- PIB per capita: 0.54
+- Número de pontos turísticos: 12
+- Super poder: 19071.279297
+
+///------------------------------------------------///
+
+Contagem de pontos:
+População da carta 1 venceu!
+Área da carta 2 venceu!
+PIB da carta 2 venceu!
+Quantidade de pontos turísticos da carta 2 venceu!
+Densidade populacional da carta 2 venceu!
+PIB per capita da carta 2 venceu!
+Super poder da carta 1 venceu!
+
+~/~------------------------~/~
+
+Carta 1: 2  ||  Carta 2: 5
+A carta 2 venceu!
